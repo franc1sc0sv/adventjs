@@ -1,0 +1,20 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "advent": "node ./day9.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franc1sc0sv/adventjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franc1sc0sv/adventjs/issues"
+  },
+  "homepage": "https://github.com/franc1sc0sv/adventjs#readme"
+}
